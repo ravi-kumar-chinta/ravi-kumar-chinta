@@ -65,11 +65,12 @@
 
 - **[Car Price Prediction](https://github.com/ravi-kumar-chinta/Car-Price-Prediction)** – Predict car market value using ML with features like brand, model, year, mileage, and fuel type.
 - **[SONAR Rock vs Mine Prediction](https://github.com/ravi-kumar-chinta/Rock-vs-Mine-Prediction)** – Machine learning project to classify sonar signals as Rock or Mine using Logistic Regression.   
-- **[Snake Game](https://github.com/ravi-kumar-chinta/Snake-Game)** –  A fun and classic Snake Game built with Python + Pygame.
+- **[Snake Game](https://github.com/ravi-kumar-chinta/Snake-Game)** – A fun and classic Snake Game built with Python + Pygame.
 - **[DocSpot](https://github.com/ravi-kumar-chinta/SmartBridge-Project)** – Full-stack healthcare appointment system with role-based access (Customer, Doctor, Admin) using Node.js, Express.js & MongoDB.
-- **[Bubble Shooter Game](https://github.com/ravi-kumar-chinta/Bubble-Shooter)** – Interactive Bubble Shooter arcade game built with HTML, CSS & JavaScript.  
+- **[Bubble Shooter Game](https://github.com/ravi-kumar-chinta/Bubble-Shooter)** – Interactive Bubble Shooter arcade game built with HTML, CSS & JavaScript.
+- **[Customer Churn Prediction](https://github.com/ravi-kumar-chinta/Customer-Churn-Prediction)** – Predict customer churn using Random Forest & XGBoost with data preprocessing, SMOTE handling, and predictive modeling in Python.
 
----
+----
 
 ### 💼 Experience
 
