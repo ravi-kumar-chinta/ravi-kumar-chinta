@@ -68,7 +68,7 @@
 - **[Snake Game](https://github.com/ravi-kumar-chinta/Snake-Game)** – A fun and classic Snake Game built with Python + Pygame.
 - **[DocSpot](https://github.com/ravi-kumar-chinta/SmartBridge-Project)** – Full-stack healthcare appointment system with role-based access (Customer, Doctor, Admin) using Node.js, Express.js & MongoDB.
 - **[Bubble Shooter Game](https://github.com/ravi-kumar-chinta/Bubble-Shooter)** – Interactive Bubble Shooter arcade game built with HTML, CSS & JavaScript.
-- **[Customer Churn Prediction](https://github.com/ravi-kumar-chinta/Customer-Churn-Prediction)** – Predict customer churn using Random Forest & XGBoost with data preprocessing, SMOTE handling, and predictive modeling in Python.
+- **[Customer Churn Prediction](https://github.com/ravi-kumar-chinta/Customer-Churn-Prediction)** – Machine learning project to predict customer churn using Random Forest and XGBoost with data preprocessing, visualization, and SMOTE for class balancing.
 
 ----
 
