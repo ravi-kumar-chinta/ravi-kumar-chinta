@@ -74,14 +74,14 @@
 
 ### 💼 Experience
 
-**Full Stack Development Intern – SmartInternz** (May–July 2025)  
-- Built & deployed **DocSpot**, optimized React & MongoDB for 30% performance improvement  
+- **Full Stack Development Intern – SmartInternz** (May–July 2025)  
+ Built & deployed **DocSpot**, optimized React & MongoDB for 30% performance improvement  
 
-**Machine Learning Intern – SkillDzire** (May–July 2024)  
-- Developed ML models with **85% accuracy** on real-world datasets  
+- **Machine Learning Intern – SkillDzire** (May–July 2024)  
+ Developed ML models with **85% accuracy** on real-world datasets  
 
-**AI/ML Virtual Intern – AICTE Eduskills** (Jan–Mar 2024)  
-- Trained SVM, KNN, Decision Tree models achieving **80–90% accuracy**  
+- **AI/ML Virtual Intern – AICTE Eduskills** (Jan–Mar 2024)  
+ Trained SVM, KNN, Decision Tree models achieving **80–90% accuracy**  
 
 ---
 
