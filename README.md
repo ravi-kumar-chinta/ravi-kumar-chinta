@@ -65,7 +65,7 @@
 
 #### 💻 Web Development Projects
 - **[QuickCalc](https://ravi-kumar-chinta.github.io/QuickCalc/)** – Simple and user-friendly **web-based calculator** built with `HTML, CSS & JavaScript`.  
-- **[QuizzyBee](https://github.com/ravi-kumar-chinta/QuizzyBee)** – Fun and interactive **quiz application** built with `React + Vite`, featuring multiple-choice questions, score tracking, and animated background effects.  
+- **[QuizzyBee](https://ravi-kumar-chinta.github.io/QuizzyBee/)** – Fun and interactive **quiz application** built with `React + Vite`, featuring multiple-choice questions, score tracking, and animated background effects.  
 - **[Snake Game](https://github.com/ravi-kumar-chinta/Snake-Game)** – A fun and classic Snake Game built with `Python + Pygame`.  
 - **[DocSpot](https://github.com/ravi-kumar-chinta/SmartBridge-Project)** – Full-stack **healthcare appointment system** with role-based access (Customer, Doctor, Admin) using `Node.js, Express.js & MongoDB`.  
 - **[Bubble Shooter Game](https://github.com/ravi-kumar-chinta/Bubble-Shooter)** – Interactive Bubble Shooter arcade game built with `HTML, CSS & JavaScript`.  
