@@ -35,7 +35,7 @@
 - 🛠️ Strong problem-solving, model building, and scalable web app development skills  
 - 🎯 Completed multiple internships (Full-Stack & ML).  
 - 💼 Looking for internship roles that allow me to learn, grow, and add value to the team.  
-- 📫 Reach me at: **chintharavikumar9908@gmail.com**
+- 📫 Reach me anytime at: **chintharavikumar9908@gmail.com**
 
 </td>
 </tr>
