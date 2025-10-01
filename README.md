@@ -14,19 +14,9 @@
 </p>
 
 ---
+<div style="background-color: #ffffff; padding: 20px; border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+
 ### 🧑‍💻 About Me
-
-<table border="0" cellspacing="0" cellpadding="0">
-<tr>
-<!-- Photo on the left -->
-<td>
-
-<img src="My-Image.jpg" alt="My Photo" width="500" height="900" style="border-radius:50%; box-shadow: 0 4px 12px rgba(0,0,0,0.25);">
-
-</td>
-
-<!-- Text box on the right -->
-<td style="padding-left: 20px; vertical-align: top;">
 
 - 🎓 B.Tech in **CSE (AI & ML)** @ Sasi Institute of Technology and Engineering (CGPA: 8.32, graduating 2026).  
 - 🤖 AI & ML enthusiast with hands-on experience in **Python, TensorFlow, Scikit-learn, and OpenCV.**  
@@ -37,10 +27,7 @@
 - 💼 Looking for internship roles that allow me to learn, grow, and add value to the team.  
 - 📫 Reach me anytime at: **chintharavikumar9908@gmail.com**
 
-</td>
-</tr>
-</table>
-
+</div>
 
 ---
 
