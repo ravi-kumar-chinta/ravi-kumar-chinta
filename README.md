@@ -17,22 +17,28 @@
 
 ### 🧑‍💻 About Me
 
+<table>
+<tr>
+<td>
 
-<p align="center">
-  <img src="My-Image.jpg" alt="My Photo" width="150" style="border-radius:50%;">
-</p>
-
-
-- 🎓 B.Tech in **CSE (AI & ML)** @ Sasi Institute of Technology and Engineering (CGPA: 8.32, graduating 2026).
+- 🎓 B.Tech in **CSE (AI & ML)** @ Sasi Institute of Technology and Engineering (CGPA: 8.32, graduating 2026).  
 - 🤖 AI & ML enthusiast with hands-on experience in **Python, TensorFlow, Scikit-learn, and OpenCV.**  
 - 💻 Skilled in **data preprocessing, supervised & unsupervised learning, model evaluation, and integrating AI into full-stack apps.**  
 - 🌐 Experienced in **Full-Stack Development** using **React.js, Node.js, Express.js, MongoDB, SQL.**  
 - 🛠️ Strong problem-solving, model building, and scalable web app development skills  
-- 🎯 Completed multiple internships (Full-Stack & ML).
-- 💼 Looking for internship roles that allow me to learn, grow, and add value to the team.
-- 📫 Reach me at: **chintharavikumar9908@gmail.com**  
+- 🎯 Completed multiple internships (Full-Stack & ML).  
+- 💼 Looking for internship roles that allow me to learn, grow, and add value to the team.  
+- 📫 Reach me at: **chintharavikumar9908@gmail.com**
 
----
+</td>
+<td>
+
+<img src="My-Image.jpg" alt="My Photo" width="150" style="border-radius:50%;">
+
+</td>
+</tr>
+</table>
+
 
 ### 💻 Tech Stack & Tools
 
