@@ -14,12 +14,11 @@
 </p>
 
 ---
-
 ### 🧑‍💻 About Me
 
-<table>
-<tr>
-<td>
+<div style="display: flex; align-items: flex-start; gap: 20px;">
+
+<div style="flex: 1;">
 
 - 🎓 B.Tech in **CSE (AI & ML)** @ Sasi Institute of Technology and Engineering (CGPA: 8.32, graduating 2026).  
 - 🤖 AI & ML enthusiast with hands-on experience in **Python, TensorFlow, Scikit-learn, and OpenCV.**  
@@ -30,14 +29,14 @@
 - 💼 Looking for internship roles that allow me to learn, grow, and add value to the team.  
 - 📫 Reach me at: **chintharavikumar9908@gmail.com**
 
-</td>
-<td>
+</div>
 
-<img src="My-Image.jpg" alt="My Photo" width="180" style="border-radius:50%;">
+<div>
+<img src="My-Image.jpg" alt="My Photo" width="150" style="border-radius:50%;">
+</div>
 
-</td>
-</tr>
-</table>
+</div>
+
 
 
 ### 💻 Tech Stack & Tools
