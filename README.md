@@ -17,6 +17,9 @@
 
 ### 🧑‍💻 About Me
 
+![My Photo](My-Image.jpg)
+
+
 - 🎓 B.Tech in **CSE (AI & ML)** @ Sasi Institute of Technology and Engineering (CGPA: 8.32, graduating 2026).
 - 🤖 AI & ML enthusiast with hands-on experience in **Python, TensorFlow, Scikit-learn, and OpenCV.**  
 - 💻 Skilled in **data preprocessing, supervised & unsupervised learning, model evaluation, and integrating AI into full-stack apps.**  
