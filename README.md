@@ -17,6 +17,11 @@
 ### 🧑‍💻 About Me
 
 <table border="0" cellspacing="0" cellpadding="0">
+<td>
+
+<img src="My-Image.jpg" alt="My Photo" width="200" height="800" style="border-radius:0%; box-shadow: 0 0 0 rgba(0,0,0,0.25);">
+
+</td>
 <tr>
 <td>
 
@@ -30,11 +35,7 @@
 - 📫 Reach me at: **chintharavikumar9908@gmail.com**
 
 </td>
-<td>
 
-<img src="My-Image.jpg" alt="My Photo" width="200" height=auto style="border-radius:0%; box-shadow: 0 0 0 rgba(0,0,0,0.25);">
-
-</td>
 </tr>
 </table>
 
