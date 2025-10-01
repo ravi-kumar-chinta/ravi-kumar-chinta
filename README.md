@@ -18,8 +18,8 @@
 
 <div style="display: flex; align-items: flex-start; gap: 20px;">
 
-<div style="flex: 1;">
-
+<!-- Text Box -->
+<div style="flex: 1; background-color: #f3f3f3; padding: 20px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
 - 🎓 B.Tech in **CSE (AI & ML)** @ Sasi Institute of Technology and Engineering (CGPA: 8.32, graduating 2026).  
 - 🤖 AI & ML enthusiast with hands-on experience in **Python, TensorFlow, Scikit-learn, and OpenCV.**  
 - 💻 Skilled in **data preprocessing, supervised & unsupervised learning, model evaluation, and integrating AI into full-stack apps.**  
@@ -28,16 +28,16 @@
 - 🎯 Completed multiple internships (Full-Stack & ML).  
 - 💼 Looking for internship roles that allow me to learn, grow, and add value to the team.  
 - 📫 Reach me at: **chintharavikumar9908@gmail.com**
-
 </div>
 
+<!-- Photo -->
 <div>
-<img src="My-Image.jpg" alt="My Photo" width="150" style="border-radius:50%;">
+<img src="My-Image.jpg" alt="My Photo" width="150" style="border-radius:50%; box-shadow: 0 4px 12px rgba(0,0,0,0.25);">
 </div>
 
 </div>
 
-
+---
 
 ### 💻 Tech Stack & Tools
 
