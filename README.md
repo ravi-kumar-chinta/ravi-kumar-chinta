@@ -17,10 +17,10 @@
 
 ### 🧑‍💻 About Me
 
-<<<<<<< HEAD
-![My Photo](My-Image.jpg)
-=======
->>>>>>> a468c9cc942164baa3d4d39bf488b0cd59d69dac
+
+<p align="center">
+  <img src="My-Image.jpg" alt="My Photo" width="150" style="border-radius:50%;">
+</p>
 
 
 - 🎓 B.Tech in **CSE (AI & ML)** @ Sasi Institute of Technology and Engineering (CGPA: 8.32, graduating 2026).
@@ -104,7 +104,6 @@
   **GSTN Hackathon 2024 –  ML Developer**  
   - Achieved **97.58% accuracy** on a predictive model using `Random Forest` for GST data.  
   - Led a **team of 4 developers**, performing end-to-end **EDA, feature engineering, model comparison, and documentation**.  
-
 ---
 
 
