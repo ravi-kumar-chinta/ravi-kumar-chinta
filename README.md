@@ -176,7 +176,23 @@
 ---
 
 
+### 📈 GitHub Insights
+<!-- GitHub Stats Section -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ravi-kumar-chinta&show_icons=true&theme=tokyonight" alt="Ravi's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ravi-kumar-chinta&theme=tokyonight" alt="Ravi's GitHub streak" />
+  <!-- Top Languages centered -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravi-kumar-chinta&layout=compact&theme=tokyonight" alt="Ravi's Top Languages" />
 </p>
+
+<!-- Next row: GitHub Stats and Streak side by side -->
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=ravi-kumar-chinta&show_icons=true&theme=tokyonight" alt="Ravi's GitHub stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ravi-kumar-chinta&theme=tokyonight" alt="Ravi's GitHub streak" />
+    </td>
+  </tr>
+</table>
+
+---
