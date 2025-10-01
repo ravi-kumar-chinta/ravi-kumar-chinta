@@ -16,10 +16,10 @@
 ---
 ### 🧑‍💻 About Me
 
-<div style="display: flex; align-items: flex-start; gap: 20px;">
+<div style="display: flex; align-items: flex-start; justify-content: center; gap: 20px; flex-wrap: wrap;">
 
   <!-- Text Box -->
-  <div style="flex: 1; background-color: #f3f3f3; padding: 20px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+  <div style="flex: 1; min-width: 300px; max-width: 600px; background-color: #f3f3f3; padding: 20px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
     <ul style="margin: 0; padding-left: 20px;">
       <li>🎓 B.Tech in <strong>CSE (AI & ML)</strong> @ Sasi Institute of Technology and Engineering (CGPA: 8.32, graduating 2026)</li>
       <li>🤖 AI & ML enthusiast with hands-on experience in <strong>Python, TensorFlow, Scikit-learn, and OpenCV</strong></li>
@@ -33,7 +33,7 @@
   </div>
 
   <!-- Photo -->
-  <div>
+  <div style="min-width: 150px;">
     <img src="My-Image.jpg" alt="My Photo" width="150" style="border-radius:50%; box-shadow: 0 4px 12px rgba(0,0,0,0.25);">
   </div>
 
