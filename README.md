@@ -16,28 +16,27 @@
 ---
 ### 🧑‍💻 About Me
 
-<div style="display: flex; align-items: flex-start; justify-content: center; gap: 20px; flex-wrap: wrap;">
+<table>
+<tr>
+<td>
 
-  <!-- Text Box -->
-  <div style="flex: 1; min-width: 300px; max-width: 600px; background-color: #f3f3f3; padding: 20px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
-    <ul style="margin: 0; padding-left: 20px;">
-      <li>🎓 B.Tech in <strong>CSE (AI & ML)</strong> @ Sasi Institute of Technology and Engineering (CGPA: 8.32, graduating 2026)</li>
-      <li>🤖 AI & ML enthusiast with hands-on experience in <strong>Python, TensorFlow, Scikit-learn, and OpenCV</strong></li>
-      <li>💻 Skilled in <strong>data preprocessing, supervised & unsupervised learning, model evaluation, and integrating AI into full-stack apps</strong></li>
-      <li>🌐 Experienced in <strong>Full-Stack Development</strong> using <strong>React.js, Node.js, Express.js, MongoDB, SQL</strong></li>
-      <li>🛠️ Strong problem-solving, model building, and scalable web app development skills</li>
-      <li>🎯 Completed multiple internships (Full-Stack & ML)</li>
-      <li>💼 Looking for internship roles that allow me to learn, grow, and add value to the team</li>
-      <li>📫 Reach me at: <strong>chintharavikumar9908@gmail.com</strong></li>
-    </ul>
-  </div>
+- 🎓 B.Tech in **CSE (AI & ML)** @ Sasi Institute of Technology and Engineering (CGPA: 8.32, graduating 2026).  
+- 🤖 AI & ML enthusiast with hands-on experience in **Python, TensorFlow, Scikit-learn, and OpenCV.**  
+- 💻 Skilled in **data preprocessing, supervised & unsupervised learning, model evaluation, and integrating AI into full-stack apps.**  
+- 🌐 Experienced in **Full-Stack Development** using **React.js, Node.js, Express.js, MongoDB, SQL.**  
+- 🛠️ Strong problem-solving, model building, and scalable web app development skills  
+- 🎯 Completed multiple internships (Full-Stack & ML).  
+- 💼 Looking for internship roles that allow me to learn, grow, and add value to the team.  
+- 📫 Reach me at: **chintharavikumar9908@gmail.com**
 
-  <!-- Photo -->
-  <div style="min-width: 150px;">
-    <img src="My-Image.jpg" alt="My Photo" width="150" style="border-radius:50%; box-shadow: 0 4px 12px rgba(0,0,0,0.25);">
-  </div>
+</td>
+<td>
 
-</div>
+<img src="My-Image.jpg" alt="My Photo" width="150" style="border-radius:50%;">
+
+</td>
+</tr>
+</table>
 
 
 ---
