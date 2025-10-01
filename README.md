@@ -32,7 +32,7 @@
 </td>
 <td>
 
-<img src="My-Image.jpg" alt="My Photo" width="auto" height=auto style="border-radius:0%; box-shadow: 0 0 0 rgba(0,0,0,0.25);">
+<img src="My-Image.jpg" alt="My Photo" width="180" height="300" style="border-radius:0%; box-shadow: 0 0 0 rgba(0,0,0,0.25);">
 
 </td>
 </tr>
