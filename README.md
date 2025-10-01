@@ -17,13 +17,16 @@
 ### 🧑‍💻 About Me
 
 <table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<!-- Photo on the left -->
 <td>
 
-<img src="My-Image.jpg" alt="My Photo" width="200" height="800" style="border-radius:0%; box-shadow: 0 0 0 rgba(0,0,0,0.25);">
+<img src="My-Image.jpg" alt="My Photo" width="200" style="border-radius:50%; box-shadow: 0 4px 12px rgba(0,0,0,0.25);">
 
 </td>
-<tr>
-<td>
+
+<!-- Text box on the right -->
+<td style="padding-left: 20px; vertical-align: top;">
 
 - 🎓 B.Tech in **CSE (AI & ML)** @ Sasi Institute of Technology and Engineering (CGPA: 8.32, graduating 2026).  
 - 🤖 AI & ML enthusiast with hands-on experience in **Python, TensorFlow, Scikit-learn, and OpenCV.**  
@@ -35,7 +38,6 @@
 - 📫 Reach me at: **chintharavikumar9908@gmail.com**
 
 </td>
-
 </tr>
 </table>
 
