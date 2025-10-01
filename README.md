@@ -15,7 +15,6 @@
 
 ---
 ### 🧑‍💻 About Me
-<div style="background-color: #ffffff; padding: 20px; border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
 
 <table border="0" cellspacing="0" cellpadding="0">
 <tr>
@@ -41,7 +40,7 @@
 </td>
 </tr>
 </table>
-</div>
+
 ---
 
 ### 💻 Tech Stack & Tools
