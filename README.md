@@ -65,18 +65,19 @@
 
 #### 💻 Web Development Projects
 
-* **QuickCalc**: Simple and user-friendly web-based `calculator` built with `HTML`, `CSS` & `JavaScript` ([GitHub](https://github.com/ravi-kumar-chinta/QuickCalc)) ([Demo](https://ravi-kumar-chinta.github.io/QuickCalc/)).
-* **QuizzyBee**: Fun and interactive `quiz application` built with `React` + `Vite`, featuring `multiple-choice questions`, `score tracking`, and `animated background effects` ([GitHub](https://github.com/ravi-kumar-chinta/QuizzyBee)) ([Demo](https://ravi-kumar-chinta.github.io/QuizzyBee/)).
-* **Tic Tac Toe**: Classic `Tic Tac Toe game` with `real-time score tracking`, built using `HTML`, `CSS` & `JavaScript` ([GitHub Link](https://github.com/ravi-kumar-chinta/Tic-Tac-Toe)) ([Demo Link](https://ravi-kumar-chinta.github.io/Tic-Tac-Toe/)).
-* **Snake Game**: A fun and classic `Snake Game` built with `Python` + `Pygame` ([GitHub](https://github.com/ravi-kumar-chinta/Snake-Game)) ([Demo](https://ravi-kumar-chinta.github.io/Bubble-Shooter/)).
-* **DocSpot**: Full-stack `healthcare appointment system` with `role-based access` (`Customer`, `Doctor`, `Admin`) using `Node.js`, `Express.js` & `MongoDB` ([GitHub](https://github.com/ravi-kumar-chinta/SmartBridge-Project)) ([Demo](https://docs-spot-project.vercel.app/)).
-* **Bubble Shooter Game**: Interactive `Bubble Shooter arcade game` built with `HTML`, `CSS` & `JavaScript` ([GitHub](https://github.com/ravi-kumar-chinta/Bubble-Shooter)) ([Demo](https://ravi-kumar-chinta.github.io/Bubble-Shooter/)).
+* **QuickCalc**: Simple and user-friendly web-based calculator built with `HTML`, `CSS`, `JavaScript` ([GitHub](https://github.com/ravi-kumar-chinta/QuickCalc)) ([Demo](https://ravi-kumar-chinta.github.io/QuickCalc/)).
+* **QuizzyBee**: Fun and interactive quiz application built with `React`, `Vite`, featuring multiple-choice questions, score tracking, and animated background effects ([GitHub](https://github.com/ravi-kumar-chinta/QuizzyBee)) ([Demo](https://ravi-kumar-chinta.github.io/QuizzyBee/)).
+* **Tic Tac Toe**: Classic Tic Tac Toe game with real-time score tracking, built using `HTML`, `CSS`, `JavaScript` ([GitHub Link](https://github.com/ravi-kumar-chinta/Tic-Tac-Toe)) ([Demo Link](https://ravi-kumar-chinta.github.io/Tic-Tac-Toe/)).
+* **Snake Game**: A fun and classic Snake Game built with `Python`, `Pygame` ([GitHub](https://github.com/ravi-kumar-chinta/Snake-Game)) ([Demo](https://ravi-kumar-chinta.github.io/Bubble-Shooter/)).
+* **DocSpot**: Full-stack healthcare appointment system with role-based access (Customer, Doctor, Admin) using `Node.js`, `Express.js`, `MongoDB` ([GitHub](https://github.com/ravi-kumar-chinta/SmartBridge-Project)) ([Demo](https://docs-spot-project.vercel.app/)).
+* **Bubble Shooter Game**: Interactive Bubble Shooter arcade game built with `HTML`, `CSS`, `JavaScript` ([GitHub](https://github.com/ravi-kumar-chinta/Bubble-Shooter)) ([Demo](https://ravi-kumar-chinta.github.io/Bubble-Shooter/)).
 
 #### 🤖 Machine Learning Projects
 
-* **Car Price Prediction**: Predict `car market value` using `Machine Learning` with features like `brand`, `model`, `year`, `mileage`, and `fuel type` ([GitHub](https://github.com/ravi-kumar-chinta/Car-Price-Prediction)) ([Demo](https://colab.research.google.com/drive/1SWKOVCwa3t3R-OABWptPAcG4ZPsLitee?usp=sharing)).
-* **SONAR Rock vs Mine Prediction**: Machine learning project to classify `sonar signals` as `Rock` or `Mine` using `Logistic Regression` ([GitHub](https://github.com/ravi-kumar-chinta/Rock-vs-Mine-Prediction)) ([Demo](https://colab.research.google.com/drive/1q1ya3VI7ePH3Mx5saPPhpeNyo0m0PVsI?usp=sharing)).
-* **Customer Churn Prediction**: Machine learning project to predict `customer churn` using `Random Forest` and `XGBoost` with `data preprocessing`, `visualization`, and `SMOTE` for class balancing ([GitHub](https://github.com/ravi-kumar-chinta/Customer-Churn-Prediction)) ([Demo](https://colab.research.google.com/drive/1SbFOV0JxMCDCA1z6alJUtITK4zD27bkJ?usp=sharing)).
+* **Car Price Prediction**: Predict car market value using `Machine Learning` with features like brand, model, year, mileage, and fuel type ([GitHub](https://github.com/ravi-kumar-chinta/Car-Price-Prediction)) ([Demo](https://colab.research.google.com/drive/1SWKOVCwa3t3R-OABWptPAcG4ZPsLitee?usp=sharing)).
+* **SONAR Rock vs Mine Prediction**: Machine learning project to classify sonar signals as Rock or Mine using `Logistic Regression` ([GitHub](https://github.com/ravi-kumar-chinta/Rock-vs-Mine-Prediction)) ([Demo](https://colab.research.google.com/drive/1q1ya3VI7ePH3Mx5saPPhpeNyo0m0PVsI?usp=sharing)).
+* **Customer Churn Prediction**: Machine learning project to predict customer churn using `Random Forest`, `XGBoost` with data preprocessing, visualization, and `SMOTE` for class balancing ([GitHub](https://github.com/ravi-kumar-chinta/Customer-Churn-Prediction)) ([Demo](https://colab.research.google.com/drive/1SbFOV0JxMCDCA1z6alJUtITK4zD27bkJ?usp=sharing)).
+
 
 ----
 
