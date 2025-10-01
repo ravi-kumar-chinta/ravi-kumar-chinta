@@ -17,6 +17,8 @@
 
 ### 🧑‍💻 About Me
 
+
+
 - 🎓 B.Tech in **CSE (AI & ML)** @ Sasi Institute of Technology and Engineering (CGPA: 8.32, graduating 2026).
 - 🤖 AI & ML enthusiast with hands-on experience in **Python, TensorFlow, Scikit-learn, and OpenCV.**  
 - 💻 Skilled in **data preprocessing, supervised & unsupervised learning, model evaluation, and integrating AI into full-stack apps.**  
@@ -84,20 +86,20 @@
 ### 💼 Experience  
 
 **Full Stack Development Intern – SmartInternz** (May–July 2025)  
-  - Built & deployed **DocSpot**, optimized React & MongoDB for 30% performance improvement  
-  - Integrated **role-based authentication** and enhanced UI/UX for seamless appointment booking  
+  - Built & deployed **DocSpot**, optimized React & MongoDB for 30% performance improvement.
+  - Integrated **role-based authentication** and enhanced UI/UX for seamless appointment booking.  
 
   **Machine Learning Intern – SkillDzire** (May–July 2024)  
-  - Developed ML models with **85% accuracy** on real-world datasets  
-  - Applied **data preprocessing, feature scaling, and visualization** using `Pandas` & `Matplotlib`  
+  - Developed ML models with **85% accuracy** on real-world datasets.  
+  - Applied **data preprocessing, feature scaling, and visualization** using `Pandas` & `Matplotlib`.  
 
   **AI/ML Virtual Intern – AICTE Eduskills** (Jan–Mar 2024)  
-  - Trained SVM, KNN, Decision Tree models achieving **80–90% accuracy**  
-  - Built pipelines for **classification tasks** and evaluated models with `Precision`, `Recall`, `F1 Score`  
+  - Trained SVM, KNN, Decision Tree models achieving **80–90% accuracy**. 
+  - Built pipelines for **classification tasks** and evaluated models with `Precision`, `Recall`, `F1 Score`. 
 
-  **GSTN Hackathon 2024 – Team Lead / ML Developer**  
-  - Achieved **97.58% accuracy** on a predictive model using `Random Forest` for GST data  
-  - Led a **team of 4 developers**, performing end-to-end **EDA, feature engineering, model comparison, and documentation**  
+  **GSTN Hackathon 2024 –  ML Developer**  
+  - Achieved **97.58% accuracy** on a predictive model using `Random Forest` for GST data.  
+  - Led a **team of 4 developers**, performing end-to-end **EDA, feature engineering, model comparison, and documentation**.  
 
 ---
 
