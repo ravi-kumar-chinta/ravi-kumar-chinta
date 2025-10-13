@@ -189,9 +189,9 @@
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=ravi-kumar-chinta&show_icons=true&theme=tokyonight" alt="Ravi's GitHub stats" />
     </td>
-    <td>
+   <!--<td>
       <img src="https://streak-stats.demolab.com?user=ravi-kumar-chinta&theme=tokyonight" alt="Ravi's GitHub streak" />
-    </td>
+    </td>-->
   </tr>
 </table>
 
