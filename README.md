@@ -184,18 +184,7 @@
 </p>
 
 <!-- Next row: GitHub Stats and Streak side by side -->
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=ravi-kumar-chinta&show_icons=true&theme=tokyonight" alt="Ravi's GitHub stats" />
-    </td>
-   <td>
-<img src="https://github-contributor-stats.vercel.app/api?username=ravi-kumar-chinta&limit=5&theme=default&forks=true"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravi-kumar-chinta&theme=default&layout=compact"/>  
-    </td>
-  </tr>
-</table>
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ravi-kumar-chinta&show_icons=true&theme=tokyonight" alt="Ravi's GitHub stats)
+![GitHub Fork & PR Activity](https://github-contributor-stats.vercel.app/api?username=ravi-kumar-chinta&limit=5&theme=default&forks=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ravi-kumar-chinta&theme=default&layout=compact)
 ---
