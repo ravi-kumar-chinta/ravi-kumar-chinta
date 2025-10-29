@@ -81,10 +81,8 @@
 
 
 #### 🧩 Core CS Concepts  
-- OOPs, DSA, SDLC, REST APIs, MVC Architecture, Full-Stack Development, Model Training, Data Visualization, Debugging & Testing  
-
-**Core ML Skills:**  
-- Supervised and Unsupervised Learning, Model Development and Evaluation, Data Preprocessing, Computer Vision, Regression, Classification, Clustering, Generative AI  
+- OOPs, DSA, SDLC, REST APIs, MVC Architecture, Full-Stack Development, Model Training, Data Visualization, Debugging & Testing
+- **Core ML Skills:**    Supervised and Unsupervised Learning, Model Development and Evaluation, Data Preprocessing, Computer Vision, Regression, Classification, Clustering, Generative AI  
 
 #### 💡 Soft Skills  
 - Communication, Leadership, Analytical Thinking, Public Speaking, Problem Solving, Learning Agility, Collaboration, Time Management
