@@ -178,7 +178,7 @@
 
 ### 📈 GitHub Insights
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ravi-kumar-chinta&show_icons=true&theme=tokyonight)
+![Ravi Kumar Chinta's GitHub stats](https://github-readme-stats.vercel.app/api?username=ravi-kumar-chinta&theme=default&show_icons=true&count_private=true)  
 ![GitHub Fork & PR Activity](https://github-contributor-stats.vercel.app/api?username=ravi-kumar-chinta&limit=5&theme=default&forks=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ravi-kumar-chinta&theme=default&layout=compact)
 
