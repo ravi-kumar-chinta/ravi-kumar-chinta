@@ -144,7 +144,6 @@
 | **QuizzyBee** | ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) | A fun and dynamic quiz app featuring multiple-choice questions, real-time scoring, and animated background effects for an engaging user experience. | [GitHub](https://github.com/ravi-kumar-chinta/QuizzyBee) <br> [Demo](https://ravi-kumar-chinta.github.io/QuizzyBee/) |
 | **Tic Tac Toe** | ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) | A classic two-player Tic Tac Toe game with instant score tracking and an elegant design for smooth gameplay. | [GitHub](https://github.com/ravi-kumar-chinta/Tic-Tac-Toe) <br> [Demo](https://ravi-kumar-chinta.github.io/Tic-Tac-Toe/) |
 | **Snake Game** | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Pygame](https://img.shields.io/badge/Pygame-306998?logo=python&logoColor=white) | A recreation of the nostalgic Snake Game featuring real-time movement, collision detection, background music, eating and game-over sounds, and increasing difficulty with score tracking. | [GitHub](https://github.com/ravi-kumar-chinta/Snake-Game) <br> [Demo](https://ravi-kumar-chinta.github.io/Bubble-Shooter/) |
- | [GitHub](https://github.com/ravi-kumar-chinta/Snake-Game) <br> [Demo](https://ravi-kumar-chinta.github.io/Bubble-Shooter/) |
 | **DocSpot** | ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) | A full-stack healthcare appointment management system supporting role-based access for Patients, Doctors, and Admins. Enables scheduling, updates, and dashboard visualization. | [GitHub](https://github.com/ravi-kumar-chinta/SmartBridge-Project) <br> [Demo](https://docs-spot-project.vercel.app/) |
 | **Bubble Shooter Game** | ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) | A colorful and interactive Bubble Shooter game with engaging mechanics, animations, and smooth gameplay physics. | [GitHub](https://github.com/ravi-kumar-chinta/Bubble-Shooter) <br> [Demo](https://ravi-kumar-chinta.github.io/Bubble-Shooter/) |
 
@@ -241,15 +240,19 @@
  
 ---
 
+## ✍️ Fuel for Innovation
+
+> ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko")
+
+
 ---
 
-<p align="center">
-  <em>"I don’t just write code — I build ideas that connect, inspire, and make a difference."</em><br>
-  — <strong>Ravi Kumar Chinta</strong> 💻✨
-</p>
+ 
 
 <p align="center">
-  🚀 <strong>Let’s create intelligent solutions that shape the future!</strong>
+  "I don’t just write code — I build ideas that connect, inspire, and make a difference" <br><br>
+  <strong><span style="font-size:24;">🚀 Let’s create intelligent solutions that shape the future!</span></strong>
 </p>
+
 
 ---
