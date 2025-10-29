@@ -99,7 +99,7 @@
 
 * **Bubble Shooter Game** — Interactive Bubble Shooter arcade game built with `HTML`, `CSS`, `JavaScript`. ([GitHub](https://github.com/ravi-kumar-chinta/Bubble-Shooter)) ([Demo](https://ravi-kumar-chinta.github.io/Bubble-Shooter/))
 -->
-
+<!--
 #### 🤖 Machine Learning & Data Visualization Projects
 
 | Project | Tech Stack | Description | Links |
@@ -124,6 +124,31 @@
 
 ---
 
+-->
+### 🤖 Machine Learning & Data Visualization Projects
+
+| Project | Tech Stack | Description | Links |
+|----------|-------------|--------------|--------|
+| **Cyclone Montha: Andhra Pradesh Impact Dashboard** | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=python&logoColor=white) | Real-time interactive dashboard analyzing Cyclone Montha's impact across 17 districts — includes rainfall, evacuation, and relief data. | [GitHub](https://github.com/ravi-kumar-chinta/cyclone-montha-dashboard) <br> [Demo](https://ravi-kumar-chinta-cyclone-montha-dashboard.streamlit.app/) |
+| **Car Price Prediction** | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikitlearn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=python&logoColor=white) | Predicts car market value using ML models based on brand, model, year, and mileage. | [GitHub](https://github.com/ravi-kumar-chinta/Car-Price-Prediction) <br> [Demo](https://colab.research.google.com/drive/1SWKOVCwa3t3R-OABWptPAcG4ZPsLitee?usp=sharing) |
+| **SONAR Rock vs Mine Prediction** | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikitlearn&logoColor=white) | Classifies sonar signals as Rock or Mine using logistic regression. | [GitHub](https://github.com/ravi-kumar-chinta/Rock-vs-Mine-Prediction) <br> [Demo](https://colab.research.google.com/drive/1q1ya3VI7ePH3Mx5saPPhpeNyo0m0PVsI?usp=sharing) |
+| **Customer Churn Prediction** | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Random Forest](https://img.shields.io/badge/Random%20Forest-228B22?logo=python&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?logo=xgboost&logoColor=white) ![SMOTE](https://img.shields.io/badge/SMOTE-008B8B?logo=python&logoColor=white) | Predicts customer churn using ML models with data preprocessing and class balancing. | [GitHub](https://github.com/ravi-kumar-chinta/Customer-Churn-Prediction) <br> [Demo](https://colab.research.google.com/drive/1SbFOV0JxMCDCA1z6alJUtITK4zD27bkJ?usp=sharing) |
+
+---
+
+### 💻 Web Development Projects
+
+| Project | Tech Stack | Description | Links |
+|----------|-------------|--------------|--------|
+| **QuickCalc** | ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) | A responsive and user-friendly web calculator that performs basic arithmetic operations with a clean, minimalist UI. | [GitHub](https://github.com/ravi-kumar-chinta/QuickCalc) <br> [Demo](https://ravi-kumar-chinta.github.io/QuickCalc/) |
+| **QuizzyBee** | ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) | A fun and dynamic quiz app featuring multiple-choice questions, real-time scoring, and animated background effects for an engaging user experience. | [GitHub](https://github.com/ravi-kumar-chinta/QuizzyBee) <br> [Demo](https://ravi-kumar-chinta.github.io/QuizzyBee/) |
+| **Tic Tac Toe** | ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) | A classic two-player Tic Tac Toe game with instant score tracking and an elegant design for smooth gameplay. | [GitHub](https://github.com/ravi-kumar-chinta/Tic-Tac-Toe) <br> [Demo](https://ravi-kumar-chinta.github.io/Tic-Tac-Toe/) |
+| **Snake Game** | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Pygame](https://img.shields.io/badge/Pygame-306998?logo=python&logoColor=white) | A recreation of the nostalgic Snake Game featuring real-time movement, collision detection, background music, eating and game-over sounds, and increasing difficulty with score tracking. | [GitHub](https://github.com/ravi-kumar-chinta/Snake-Game) <br> [Demo](https://ravi-kumar-chinta.github.io/Bubble-Shooter/) |
+ | [GitHub](https://github.com/ravi-kumar-chinta/Snake-Game) <br> [Demo](https://ravi-kumar-chinta.github.io/Bubble-Shooter/) |
+| **DocSpot** | ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) | A full-stack healthcare appointment management system supporting role-based access for Patients, Doctors, and Admins. Enables scheduling, updates, and dashboard visualization. | [GitHub](https://github.com/ravi-kumar-chinta/SmartBridge-Project) <br> [Demo](https://docs-spot-project.vercel.app/) |
+| **Bubble Shooter Game** | ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) | A colorful and interactive Bubble Shooter game with engaging mechanics, animations, and smooth gameplay physics. | [GitHub](https://github.com/ravi-kumar-chinta/Bubble-Shooter) <br> [Demo](https://ravi-kumar-chinta.github.io/Bubble-Shooter/) |
+
+---
 
 
 ### 💼 Experience  
@@ -214,4 +239,17 @@
 
 ![GitHub Fork & PR Activity](https://github-contributor-stats.vercel.app/api?username=ravi-kumar-chinta&limit=5&theme=default&forks=true)
  
+---
+
+---
+
+<p align="center">
+  <em>"I don’t just write code — I build ideas that connect, inspire, and make a difference."</em><br>
+  — <strong>Ravi Kumar Chinta</strong> 💻✨
+</p>
+
+<p align="center">
+  🚀 <strong>Let’s create intelligent solutions that shape the future!</strong>
+</p>
+
 ---
