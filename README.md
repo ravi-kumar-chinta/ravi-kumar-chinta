@@ -190,10 +190,10 @@
       <img src="https://github-readme-stats.vercel.app/api?username=ravi-kumar-chinta&show_icons=true&theme=tokyonight" alt="Ravi's GitHub stats" />
     </td>
    <td>
-![GitHub Fork & PR Activity](https://github-contributor-stats.vercel.app/api?username=ravi-kumar-chinta&limit=5&theme=default&forks=true)
+<img src="https://github-contributor-stats.vercel.app/api?username=ravi-kumar-chinta&limit=5&theme=default&forks=true"/>
     </td>
     <td>
-      ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ravi-kumar-chinta&theme=default&layout=compact)  
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravi-kumar-chinta&theme=default&layout=compact"/>  
     </td>
   </tr>
 </table>
