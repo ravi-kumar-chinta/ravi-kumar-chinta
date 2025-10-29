@@ -34,6 +34,9 @@
 - 📫 Reach me anytime at: **chintharavikumar9908@gmail.com**
 
 </td>
+<td>
+  <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200">
+</td>
 </tr>
 </table>
 
@@ -254,5 +257,8 @@
   <strong><span style="font-size:24;">🚀 Let’s create intelligent solutions that shape the future!</span></strong>
 </p>
 
-
 ---
+<!--
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ravi-kumar-chinta&repo=cyclone-montha-dashboard&theme=tokyonight)](https://github.com/ravi-kumar-chinta/cyclone-montha-dashboard)-->
+
+
