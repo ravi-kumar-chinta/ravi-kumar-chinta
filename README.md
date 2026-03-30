@@ -7,7 +7,7 @@
   <a href="mailto:chintharavikumar9908@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
- <a href="https://ravikumarch-portfolio.netlify.app/">
+ <a href="https://ch-ravi-kumar-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-4AB04A?style=for-the-badge&logo=webflow&logoColor=white" alt="Portfolio"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=ravi-kumar-chinta&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile-views"/>
